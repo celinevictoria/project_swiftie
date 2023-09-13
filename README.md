@@ -3,7 +3,7 @@
 A simple flutter project dedicated to The Eras Tour setlist to use the things I've recently learned about flutter.
 
 Home page with the different eras:
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-13 at 20 24 48](https://github.com/celinevictoria/project_swiftie/assets/85820890/4a1f1461-2b0f-48fe-a770-90126fb8a40a)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-13 at 20 24 48](https://github.com/celinevictoria/project_swiftie/assets/85820890/4a1f1461-2b0f-48fe-a770-90126fb8a40a | width=100)
 
 It also comes with dark mode:
 ![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-13 at 20 25 03](https://github.com/celinevictoria/project_swiftie/assets/85820890/de8a1153-1d2a-403e-a7a4-df3d0aac8b85)
